@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1453747629 source:e:\codeblocks\2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Btableau.h"
+
+1453747617 e:\codeblocks\2048\btableau.h
+	<stdio.h>
+	<math.h>
+
